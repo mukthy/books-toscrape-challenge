@@ -16,7 +16,7 @@ class BooksToScrapeSpider(scrapy.Spider):
     def parse(self, response):
         all_books = response.xpath('.//article[@class="product_pod"]')
 
-# Loop to get all the categories books.
+# Loop to get all the categories books URL.
 
         for book in all_books:
             book_url = book.xpath('.//h3/a/@href').extract_first()

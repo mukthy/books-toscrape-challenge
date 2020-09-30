@@ -24,6 +24,7 @@ I have uploaded the output of the website http://books.toscrape.com/ in a CSV fo
 
 It contains the following fields : 
 
+```
 Book URL
 
 Book Price
@@ -31,7 +32,7 @@ Book Price
 Book Image URL
 
 Book Title
-
+```
 ##Start
 
 ![alt text](https://github.com/mukthy/books-toscrape-challenge/blob/master/start.png)

@@ -31,3 +31,7 @@ Book Price
 Book Image URL
 
 Book Title
+
+![alt text](https://github.com/mukthy/books-toscrape-challenge/blob/master/start.png)
+
+![alt text](https://github.com/mukthy/books-toscrape-challenge/blob/master/end.png)

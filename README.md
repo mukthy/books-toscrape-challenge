@@ -35,7 +35,3 @@ Book Title
 Start
 
 ![alt text](https://github.com/mukthy/books-toscrape-challenge/blob/master/start.png)
-
-End
-
-![alt text](https://github.com/mukthy/books-toscrape-challenge/blob/master/end.png)
